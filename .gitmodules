@@ -1,0 +1,3 @@
+[submodule "fileXferLib"]
+	path = fileXferLib
+	url = https://github.com/SkyEng1neering/fileXferLib
